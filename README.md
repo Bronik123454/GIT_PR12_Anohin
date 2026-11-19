@@ -53,7 +53,7 @@ CREATE TABLE people (
 ### Пример работы:
 
 ```sql
-INSERT INTO people (name, age) VALUES ('Арина', 20);
+INSERT INTO people (name, age) VALUES ('Сергей', 20);
 SELECT * FROM people;
 ```
 
